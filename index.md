@@ -1,6 +1,3 @@
-title: Welcome to the Lily’s homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lilyye-8/lilyye-8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
